@@ -9,3 +9,7 @@ Python Coder
 # MOST USED LANGUAGE
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherX-XD&theme=midnight-purple)
+
+### CURRENTLY LISTENING TO 
+
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="400" />
